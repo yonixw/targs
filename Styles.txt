@@ -1,4 +1,8 @@
 -Main Character : Normal Speaking
-:{\fAriel}
+:{\fAriel
+
+
+-Zoro : Normal Talking
+:{\b}
 :
 :
